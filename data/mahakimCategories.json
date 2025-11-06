@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rapport-police-judiciaire",
+    "name": "تقرير الشرطة القضائية",
+    "description": "متابعة تقارير الشرطة القضائية"
+  },
+  {
+    "id": "horaire-seances",
+    "name": "جدول الجلسات",
+    "description": "الاطلاع على جدول الجلسات"
+  },
+  {
+    "id": "dossiers-infractions-delits",
+    "name": "ملفات المخالفات والجنح",
+    "description": "متابعة ملفات المخالفات والجنح"
+  },
+  {
+    "id": "dossier-execution-ca",
+    "name": "ملف تنفيذ محكمة الاستئناف",
+    "description": "متابعة ملفات التنفيذ بمحاكم الاستئناف"
+  },
+  {
+    "id": "dossier-suivi",
+    "name": "تتبع الملفات",
+    "description": "خدمة تتبع مختلف أنواع الملفات"
+  }
+]
